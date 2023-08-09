@@ -20,7 +20,7 @@ const Abou1 = () => {
               <div className="text">Why Work With Me</div>
               <p>I'm a great communicator & love to invest the necessary time to understand the problem very well.</p>
 
-              <a href="https://drive.google.com/file/d/10mpSWJL8Du5-t7zqwonxC-IVznkz6qmP/view?usp=sharing" target="blank">Download CV</a>
+              <a href="https://drive.google.com/file/d/18rJUhpHk0aQguEB0lrkn1U_0_DyA2l5q/view?usp=sharing" target="blank">Download CV</a>
             </div>
           </div>
         </div>
