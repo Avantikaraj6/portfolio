@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "title": "HTML",
+      "content": "The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser.",
+      "image": "https://4.bp.blogspot.com/-5igKWuQojQE/Uh9x_gGWTAI/AAAAAAAAFZ8/kL8mKPO1Tfc/s1600/Background-Html5.jpg"
+    },
+    {
+      "id": 2,
+      "title": "CSS",
+      "content": "Cascading Style Sheets is a simply designed language intended to simplify the process of making web pages presentable.",
+      "image": "https://cdn.lynda.com/course/417645/417645-636618158800124958-16x9.jpg"
+    },
+    {
+      "id": 3,
+      "title": "JavaScript",
+      "content": "JavaScript (JS) is the most popular interpreted compiled programming language. It can be used for both Client-side as well as Server-side developments.",
+      "image": "https://th.bing.com/th/id/R.535e92c65ddaff1a55f11df10c680c75?rik=f%2biBg6VYkZpFAQ&riu=http%3a%2f%2fradicalhub.com%2fwp-content%2fuploads%2f2018%2f07%2fjavascript.jpg&ehk=%2f8TEVGmLi%2bQfePoivY3xtjLzdul2sHZ8uuJe38nC3L4%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "id": 4,
+        "title": "React JS",
+        "content": "ReactJS is an open-source JavaScript library that is used for building user interfaces in a declarative and efficient way.",
+        "image": "https://i.pinimg.com/originals/4f/e3/7e/4fe37e085a374b2d6aae75635184a91d.png"
+      },
+      {
+        "id": 5,
+        "title": "Bootstrap",
+        "content": "Bootstrap is the most popular HTML, CSS, and JavaScript framework for developing responsive, mobile-first websites.",
+        "image": "https://th.bing.com/th/id/OIP.Tm2m9L1vPF9zWTuRxI5jAQHaEb?pid=ImgDet&w=900&h=538&rs=1"
+      },
+      {
+        "id": 6,
+        "title": "Python",
+        "content": "Python is a programming language that lets you work quickly and integrate systems more effectively.",
+        "image": "https://blog.eduonix.com/wp-content/uploads/2018/06/Data-Retrieval-using-Python.jpg"
+      }
+ ]

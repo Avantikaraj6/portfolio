@@ -1,0 +1,15 @@
+.footer{
+    background-color: black;
+}
+.images{
+    width:4%;
+    margin: 10px 20px 10px 20px !important;
+    
+}
+.images1{
+    width:2.5%;
+    padding-right:10px;
+}
+.line{
+    border-top: 1px solid rgb(255, 255, 255); 
+}
